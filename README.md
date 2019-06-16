@@ -1,7 +1,7 @@
 # Spot Post
 Just a Simple Project in Flutter
 
-#Screen Shots
+# Screen Shots
 ![alt text](https://raw.githubusercontent.com/Linssen21/Spot-Post/new-branch/sc/64542469_2405248149709396_3205634671996043264_n.jpg)
 
 ## Getting Started
