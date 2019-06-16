@@ -1,5 +1,5 @@
 # Spot Post
-A new Flutter project.
+Just a Simple Project in Flutter
 
 ## Getting Started
 
