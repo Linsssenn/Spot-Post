@@ -1,5 +1,4 @@
-# sample_app
-
+# Spot Post
 A new Flutter project.
 
 ## Getting Started
